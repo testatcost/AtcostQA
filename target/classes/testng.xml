@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Atcost QA Test Automation Suite" >
+  <test name="Atcost Web test" >
+    <classes>
+       <class name="pom.atcost.testcases.LoginPageTest" />
+    </classes>
+  </test>
+
+</suite>
